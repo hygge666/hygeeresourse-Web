@@ -1,2 +1,2 @@
-# hygeeresourse-Web
-这是一个修改后的资源站点，新建的博客资源站点！
+# Eureka-resoursesWeb
+这是一个资源网站存放站点！
